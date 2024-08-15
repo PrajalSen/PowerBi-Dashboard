@@ -1,5 +1,13 @@
 **HR Analytics Dashboard**
 
+#Output
+![Screenshot_2024-08-15_145814-transformed](https://github.com/user-attachments/assets/f915baf1-c34e-4597-a4e8-1a3af37f3280)
+
+
+https://github.com/user-attachments/assets/492c87c1-6203-4f99-aa99-f88effa0906a
+
+
+
 **Overview**
 This repository contains an HR Analytics Dashboard project created using Power BI. The dashboard is designed to provide insights into various HR metrics, helping organizations make data-driven decisions to improve employee performance, retention, and overall HR efficiency.
 
