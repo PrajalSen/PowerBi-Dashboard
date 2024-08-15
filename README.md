@@ -4,6 +4,7 @@
 This repository contains an HR Analytics Dashboard project created using Power BI. The dashboard is designed to provide insights into various HR metrics, helping organizations make data-driven decisions to improve employee performance, retention, and overall HR efficiency.
 
 **Features**
+
 **Employee Performance Analysis:** Visualizes key performance indicators (KPIs) such as productivity, goal completion rates, and performance ratings.
 **Attrition and Retention:** Analyzes employee turnover rates, retention patterns, and the factors contributing to attrition.
 **Demographics Overview:** Displays demographic information like age, gender, department, and job roles.
@@ -35,6 +36,7 @@ This repository contains an HR Analytics Dashboard project created using Power B
 **Customize (Optional):** Modify the data model, add new visualizations, or integrate additional datasets as needed.
 
 **Prerequisites**
+
 **Power BI Desktop:** Ensure you have the latest version of Power BI Desktop installed to view and interact with the dashboard.
 **Sample Data:** The dashboard is built using sample HR data, which can be replaced with your organization's data for customized insights.
 **Project Structure**
@@ -43,10 +45,9 @@ This repository contains an HR Analytics Dashboard project created using Power B
 **/docs:** Additional documentation and reports related to the project.
 
 **Acknowledgments**
+
 Special thanks to my mentors and colleagues who provided valuable feedback during the development of this project.
 
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Contact**
-For any inquiries or further information, please contact [Prajal] at [senprajal@gmail.com].
+For any inquiries or further information, please contact [Prajal Sen] at [senprajal@gmail.com].
