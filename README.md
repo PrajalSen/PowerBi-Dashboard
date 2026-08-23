@@ -15,11 +15,27 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/POWER%20BI-ANALYTICS-FFD700?style=for-the-badge" alt="Power BI Analytics">
-  <img src="https://img.shields.io/badge/DATA-ANALYTICS-2196F3?style=for-the-badge" alt="Data Analytics">
-  <img src="https://img.shields.io/badge/HR-ANALYTICS-9C27B0?style=for-the-badge" alt="HR Analytics">
-  <img src="https://img.shields.io/badge/DAX-DATA%20MODELING-FF7043?style=for-the-badge" alt="DAX Data Modeling">
-  <img src="https://img.shields.io/badge/STATUS-COMPLETED-2EBD59?style=for-the-badge" alt="Completed">
+  <span style="background:#F2C811;color:#111;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
+    POWER BI
+  </span>
+  <span style="background:#2196F3;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
+    ANALYTICS
+  </span>
+  <span style="background:#607D8B;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
+    DATA
+  </span>
+  <span style="background:#9C27B0;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
+    HR ANALYTICS
+  </span>
+  <span style="background:#FF7043;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
+    DAX
+  </span>
+  <span style="background:#E85D2A;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
+    DATA MODELING
+  </span>
+  <span style="background:#2EBD59;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
+    COMPLETED
+  </span>
 </p>
 
 ---
