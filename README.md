@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HR-Analytics-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DAX-Data%20Modeling-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/POWER%20BI-ANALYTICS-FFD700?style=for-the-badge" alt="Power BI Analytics">
+  <img src="https://img.shields.io/badge/DATA-ANALYTICS-2196F3?style=for-the-badge" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/HR-ANALYTICS-9C27B0?style=for-the-badge" alt="HR Analytics">
+  <img src="https://img.shields.io/badge/DAX-DATA%20MODELING-FF7043?style=for-the-badge" alt="DAX Data Modeling">
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-2EBD59?style=for-the-badge" alt="Completed">
 </p>
 
 ---
