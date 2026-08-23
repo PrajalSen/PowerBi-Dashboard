@@ -1,222 +1,215 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E78,50:2F75B5,100:00A6A6&height=190&section=header&text=HR%20Analytics%20Dashboard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Power%20BI%20%7C%20Data%20Analytics%20%7C%20Human%20Resources&descAlignY=62&descSize=17" width="100%" alt="HR Analytics Dashboard">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=2F75B5&center=true&vCenter=true&width=750&lines=Turning+HR+Data+into+Actionable+Insights+%F0%9F%93%8A;Employee+Performance+Analysis+%F0%9F%91%A5;Attrition+%26+Retention+Analytics+%F0%9F%93%89;Salary+%26+Demographic+Analysis+%F0%9F%92%B0;Interactive+Power+BI+Dashboard+%F0%9F%93%88" alt="Animated project description">
-
-<br>
-
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Data%20Analytics-2F75B5?style=for-the-badge" alt="Data Analytics">
-<img src="https://img.shields.io/badge/HR%20Analytics-00A6A6?style=for-the-badge" alt="HR Analytics">
-<img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" alt="Project Status">
-
-</div>
-
----
-
 # 📊 HR Analytics Dashboard
 
-### Turning HR Data into Actionable Insights
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F2C811&center=true&vCenter=true&width=750&lines=Turning+HR+Data+into+Actionable+Insights;Interactive+Power+BI+Dashboard;Employee+%7C+Attrition+%7C+Salary+%7C+Performance;Data+Driven+HR+Analytics"
+    alt="Typing animation"
+  />
+</p>
 
-This repository contains an **HR Analytics Dashboard built using Microsoft Power BI**.
+<p align="center">
+  <b>
+    Interactive Power BI dashboard for understanding employee performance,
+    attrition, salary, demographics, and workforce trends.
+  </b>
+</p>
 
-The project transforms employee data into interactive visualizations that help analyze workforce trends, employee performance, attrition, retention, demographics, salary distribution, and other important HR metrics.
-
-The goal is to provide a clear and interactive way for organizations to understand their workforce and make more **data-driven HR decisions**.
-
----
-
-## ✨ Dashboard Features
-
-<div align="center">
-
-| 👥 Workforce | 📈 Performance | 📉 Attrition |
-|:---:|:---:|:---:|
-| Employee Overview | Performance KPIs | Attrition Rate |
-| Demographics | Goal Completion | Retention Analysis |
-| Job Roles | Productivity | Turnover Patterns |
-
-| 💰 Compensation | 🎯 KPIs | 🔎 Analysis |
-|:---:|:---:|:---:|
-| Salary Distribution | Employee Count | Interactive Filters |
-| Salary Slabs | Average Salary | Drill-down Analysis |
-| Experience Analysis | Average Age | Department Analysis |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HR-Analytics-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DAX-Data%20Modeling-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+</p>
 
 ---
 
-## 📌 Key HR Metrics
+## ✨ Dashboard Preview
 
-The dashboard provides an overview of important workforce KPIs.
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/f915baf1-c34e-4597-a4e8-1a3af37f3280"
+    alt="HR Analytics Dashboard"
+    width="900"
+  />
+</p>
 
-### 👥 Overall Employees
-
-Displays the total number of employees represented in the dataset.
-
-### 📉 Attrition Rate
-
-Shows the percentage of employees who have left the organization.
-
-### 🎂 Average Age
-
-Provides the average age of employees across the organization.
-
-### 💰 Average Salary
-
-Displays the average employee salary and supports salary distribution analysis.
-
-### 🏢 Years at Company
-
-Highlights employee tenure and helps understand workforce experience and retention.
+<p align="center">
+  <i>
+    Interactive HR Analytics Dashboard built using Microsoft Power BI.
+  </i>
+</p>
 
 ---
 
-## 🔍 Employee Performance Analysis
+## 🎬 Dashboard Walkthrough
 
-The dashboard provides insights into employee performance through metrics such as:
+Explore the dashboard and its interactive visualizations:
 
-- 📊 Productivity
-- 🎯 Goal completion
-- ⭐ Performance ratings
-- 🏆 Performance trends
-- 👥 Employee-level comparisons
-
-These visualizations help identify performance patterns and areas that may require attention.
+https://github.com/user-attachments/assets/492c87c1-6203-4f99-aa99-f88effa0906a
 
 ---
 
-## 📉 Attrition & Retention Analysis
+# 🎯 Project Overview
 
-Understanding why employees leave is an important part of HR analytics.
+This repository contains an **HR Analytics Dashboard** created using **Microsoft Power BI**.
 
-The dashboard analyzes:
+The dashboard is designed to provide insights into various HR metrics and help organizations make data-driven decisions to improve employee performance, retention, and overall HR efficiency.
 
-- 📉 Employee attrition
-- 🔄 Retention patterns
-- 🏢 Department-level attrition
-- 💼 Job-role attrition
-- 👥 Workforce trends
-- 📊 Factors associated with employee turnover
+The project focuses on:
 
-These insights can help HR teams identify areas where retention strategies may be required.
+- 👥 Employee workforce analysis
+- 📈 Employee performance
+- 🔄 Attrition and retention
+- 🧑‍💼 Demographics
+- 💰 Salary analysis
+- 🏢 Job role analysis
+- 📊 Key HR performance indicators
 
 ---
 
-## 👥 Demographics Analysis
+# 🚀 Key Features
 
-The dashboard provides an overview of workforce demographics including:
+## 👥 Employee Performance Analysis
 
-- 🎂 Age
-- ⚧️ Gender
-- 🏢 Department
-- 💼 Job Role
-- 📊 Workforce distribution
+Visualizes important employee performance metrics such as:
 
-Interactive filters allow users to explore different demographic segments.
+- Productivity
+- Goal completion rates
+- Performance ratings
+- Job-role performance
+
+---
+
+## 🔄 Attrition & Retention
+
+Analyzes employee turnover and retention patterns.
+
+The dashboard provides insights into:
+
+- Employee attrition
+- Retention patterns
+- Attrition rates
+- Factors contributing to employee turnover
+
+---
+
+## 🧑‍💼 Demographics Overview
+
+Provides an overview of the workforce based on:
+
+- Age
+- Gender
+- Department
+- Job role
 
 ---
 
 ## 💰 Salary Analysis
 
-Salary data can be explored across different workforce dimensions.
+Allows salary distributions to be explored across:
 
-The dashboard includes:
-
-- 💵 Salary distribution
-- 💼 Salary by job role
-- 🏢 Salary by department
-- 📊 Salary slabs
-- 📈 Experience-based salary analysis
-
-This helps provide a clearer picture of compensation patterns within the organization.
+- Job roles
+- Departments
+- Experience levels
+- Salary slabs
 
 ---
 
-## 🎯 Interactive Dashboard
+# 📊 KPI Overview
 
-The Power BI dashboard allows users to interact with the data instead of viewing static reports.
+The dashboard highlights several important HR metrics.
+
+| KPI | Description |
+|---|---|
+| 👥 **Overall Employees** | Count of the total number of employees |
+| 🔄 **Attrition Rate** | Percentage of employees leaving the company |
+| 🎂 **Average Age** | Average age of employees |
+| 💰 **Average Salary** | Average salary of employees |
+| 🏢 **Years at Company** | Average employee tenure within the organization |
+
+---
+
+# 📈 Visual Representations
+
+The dashboard provides visual representations of important HR metrics through:
+
+### 📊 KPI Charts
+
+Visualizes key metrics such as:
+
+- Employee count
+- Attrition rate
+- Average salary
+- Average age
+- Years at company
+
+### 🧑‍💼 Job Roles Analysis
+
+Provides insights into:
+
+- Workforce distribution by job role
+- Salary slabs
+- Role-specific metrics
+- Employee-related trends
+
+---
+
+# 🔎 Interactive Dashboard
+
+The dashboard is designed to allow users to interact with the data.
 
 Users can:
 
-- 🔎 Filter data
-- 📊 Explore different metrics
-- 🏢 Analyze departments
-- 💼 Compare job roles
-- 👥 Explore employee demographics
-- 📈 Identify workforce trends
-- 🔍 Drill into specific areas
+- 🔍 Apply filters
+- 📊 Explore different workforce segments
+- 🧑‍💼 Analyze job roles
+- 🏢 Compare departments
+- 📈 Explore employee trends
+- 🔄 Investigate attrition patterns
+
+This allows the dashboard to be used as an interactive analytical tool rather than a static report.
 
 ---
 
-# 🖥️ Dashboard Preview
+# 💡 Business Insights
 
-## 📊 HR Analytics Dashboard
+The dashboard can help investigate questions such as:
 
-<!-- KEEP YOUR EXISTING DASHBOARD IMAGE HERE -->
-<!-- Do NOT remove the image currently present in this README. -->
+> Which departments have the highest employee attrition?
 
-<br>
+> Which job roles have the highest average salary?
 
-<!-- KEEP YOUR EXISTING VIDEO HERE -->
-<!-- Do NOT remove the existing video/media block from the repository. -->
+> How does the workforce vary by age and gender?
 
----
+> Which salary slabs contain the largest number of employees?
 
-## 🎥 Project Walkthrough
+> How long do employees typically stay with the company?
 
-<!-- KEEP ANY EXISTING VIDEO / GIF / SCREEN RECORDING HERE -->
-<!-- Your existing media should remain unchanged. -->
-
-The dashboard provides an interactive overview of employee data and allows users to explore HR metrics through filters and visualizations.
+> What patterns can be identified across employee performance and retention?
 
 ---
 
-## 🧠 Key Insights
+# 🧩 Data-to-Insight Flow
 
-The dashboard is designed to help answer questions such as:
-
-> 👥 How many employees are currently represented in the dataset?
-
-> 📉 What is the overall attrition rate?
-
-> 💰 What is the average salary?
-
-> 🎂 What is the average employee age?
-
-> 🏢 Which departments have higher attrition?
-
-> 💼 How does salary vary across different job roles?
-
-> 📊 How is the workforce distributed across demographics?
-
-> ⏳ How long do employees typically stay with the organization?
-
----
-
-## 🎯 Use Cases
-
-This dashboard can be useful for:
-
-- 👨‍💼 HR managers
-- 📊 HR analysts
-- 🏢 Organizations
-- 💼 Business analysts
-- 📈 Management teams
-- 🎓 Data analytics learning projects
-
-It can support analysis related to:
-
-**Workforce Planning → Performance → Compensation → Retention → Attrition**
-
----
-
-## 🕹️ How to Use
-
-### 1️⃣ Download the `.pbix` file
-
-Clone this repository:
-
-```bash
-git clone https://github.com/PrajalSen/PowerBi-Dashboard.git
+```text
+        📂 HR Data
+           │
+           ▼
+   🧹 Data Preparation
+           │
+           ▼
+     🗂️ Data Modeling
+           │
+           ▼
+      🧮 DAX Measures
+           │
+           ▼
+    📊 Power BI Visuals
+           │
+           ▼
+     🔎 Interactive
+        Dashboard
+           │
+           ▼
+     💡 HR Insights
