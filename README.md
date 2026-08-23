@@ -15,27 +15,13 @@
 </p>
 
 <p align="center">
-  <span style="background:#F2C811;color:#111;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
-    POWER BI
-  </span>
-  <span style="background:#2196F3;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
-    ANALYTICS
-  </span>
-  <span style="background:#607D8B;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
-    DATA
-  </span>
-  <span style="background:#9C27B0;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
-    HR ANALYTICS
-  </span>
-  <span style="background:#FF7043;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
-    DAX
-  </span>
-  <span style="background:#E85D2A;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
-    DATA MODELING
-  </span>
-  <span style="background:#2EBD59;color:white;padding:6px 12px;border-radius:4px;font-size:12px;font-weight:bold;">
-    COMPLETED
-  </span>
+  <kbd>POWER BI</kbd>
+  <kbd>ANALYTICS</kbd>
+  <kbd>DATA</kbd>
+  <kbd>HR ANALYTICS</kbd>
+  <kbd>DAX</kbd>
+  <kbd>DATA MODELING</kbd>
+  <kbd>COMPLETED</kbd>
 </p>
 
 ---
